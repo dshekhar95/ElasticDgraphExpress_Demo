@@ -1,0 +1,19 @@
+{
+  "name": "custommutationsdemojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.8.0",
+    "@grpc/grpc-js": "^1.8.15",
+    "body-parser": "^1.20.2",
+    "dgraph-js": "^21.3.1",
+    "express": "^4.18.2"
+  }
+}
